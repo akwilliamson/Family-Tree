@@ -6,7 +6,7 @@ So far, the only functionality that's been implemented is tracking which people 
 
 Future features:
 
-* Tracking children
-* Reporting parents
+* DONE Tracking children
+* DONE Reporting parents
 * Reporting siblings, cousins, uncles/aunts, etc.
 * Tracking divorces
