@@ -1,12 +1,15 @@
-# Family tree
+Family tree
+===
+A command-line app to track a family tree. Started by another coder. 
 
-This is a command-line app to track a family tree. It's an exercise in using Active Record without Rails, and playing around with associations that aren't always straightforward.
+Initially, the only functionality that was implemented was tracking which people are married to each other.
 
-So far, the only functionality that's been implemented is tracking which people are married to each other.
+Added features:
 
-Future features:
+**DONE** Tracking children
 
-* DONE Tracking children
-* DONE Reporting parents
-* Reporting siblings, cousins, uncles/aunts, etc.
-* Tracking divorces
+**DONE** Reporting parents
+
+Reporting siblings, cousins, uncles/aunts, etc.
+
+Tracking divorces
