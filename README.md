@@ -1,4 +1,4 @@
-Family tree
+Family Tree
 ===
 A command-line app to track a family tree. Started by another coder. 
 
